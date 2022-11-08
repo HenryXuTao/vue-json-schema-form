@@ -3,54 +3,6 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.14.0](https://github.com/lljj-x/vue-json-schema-form/compare/v1.13.1...v1.14.0) (2022-08-07)
-
-
-### Features
-
-* build vue3-form-element ([4747bf9](https://github.com/lljj-x/vue-json-schema-form/commit/4747bf985397b8c06ee5b7e13dc11cceb9c7b69a))
-* **vue3 core:** 修复provide警告 ([711c932](https://github.com/lljj-x/vue-json-schema-form/commit/711c932e71ead9667f65777e6b65578c76087ce1))
-* **vue3core:** 整理代码 ([54e9db4](https://github.com/lljj-x/vue-json-schema-form/commit/54e9db4090155e0e6a78788dccb5c6208f9cb812))
-
-
-
-
-
-## [1.13.1](https://github.com/lljj-x/vue-json-schema-form/compare/v1.13.0...v1.13.1) (2022-06-12)
-
-**Note:** Version bump only for package @lljj/vue3-form-element
-
-
-
-
-
-# [1.13.0](https://github.com/lljj-x/vue-json-schema-form/compare/v1.12.2...v1.13.0) (2022-05-22)
-
-
-### Features
-
-* **lib:** 添加 defaultSelectFirstOption 配置 ([bf17a61](https://github.com/lljj-x/vue-json-schema-form/commit/bf17a616fc000194ddda1259a708b9c52571d3fd)), closes [#171](https://github.com/lljj-x/vue-json-schema-form/issues/171)
-
-
-
-
-
-## [1.12.2](https://github.com/lljj-x/vue-json-schema-form/compare/v1.12.1...v1.12.2) (2022-04-11)
-
-**Note:** Version bump only for package @lljj/vue3-form-element
-
-
-
-
-
-## [1.12.1](https://github.com/lljj-x/vue-json-schema-form/compare/v1.12.0...v1.12.1) (2022-04-05)
-
-**Note:** Version bump only for package @lljj/vue3-form-element
-
-
-
-
-
 # [1.12.0](https://github.com/lljj-x/vue-json-schema-form/compare/v1.11.0...v1.12.0) (2022-03-08)
 
 
